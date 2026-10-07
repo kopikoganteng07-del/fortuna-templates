@@ -1,0 +1,21 @@
+{
+  "template": "TPL-05",
+  "source_url": "https://example.com/",
+  "checks": {
+    "lint": "No syntax errors detected in /work/TPL-05.php",
+    "home_status": 200,
+    "sub_status": 200,
+    "404_status": 404,
+    "desktop_screenshot": true,
+    "mobile_screenshot": true
+  },
+  "files": {
+    "TPL-05.php": "014711d548a40d5ad5a817ce7fd348015b4ed67979a9289a19c7c53193698967",
+    "templates/TPL-05/manifest.json": "752c2ed979575324a483e4cdfe450c7a7a0d701e1c2d1a3b04a88d6ddfdfaae6",
+    "templates/TPL-05/source.html": "25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484",
+    "templates/TPL-05/render-home.html": "ed952f6d6b3bfde427a81fb51a0d5023b55e16f9e8b91a75a77bf4591ccd4cce",
+    "templates/TPL-05/render-subpage.html": "51ac1189fbd31fd2410b745e87768d29df91d4f901a073829769876f47f39f9a",
+    "templates/TPL-05/screenshot-desktop.png": "31651030bc5f726a2601b08cb7fd91bbf3b5b83a386e69f6ace789bdf377fd30",
+    "templates/TPL-05/screenshot-mobile.png": "2485cd2ad22b21136b8d2cbdadcdd8eb9f4f91c92e27d1cb5d0462a4abfc0c60"
+  }
+}
