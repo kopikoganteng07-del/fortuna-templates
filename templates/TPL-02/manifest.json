@@ -1,0 +1,1581 @@
+{
+  "template": "TPL-02",
+  "source_url": "https://www.samsung.com/sg/",
+  "assets": [
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2026-main-kv-feature-kv-mo.jpg?$720_N_JPG$",
+      "name": "tpl-02-0036bc486f8db7f8.jpg",
+      "path": "assets/tpl-02-0036bc486f8db7f8.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-0036bc486f8db7f8.jpg",
+      "live_path": "/img/tpl-02-0036bc486f8db7f8.jpg",
+      "sha256": "0036bc486f8db7f8ef3fc7ad223495af08118c6853eaaf2c195ad38c467fc1d6",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Unpacked-Replay_MO_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-0074b4889815b53a.jpg",
+      "path": "assets/tpl-02-0074b4889815b53a.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-0074b4889815b53a.jpg",
+      "live_path": "/img/tpl-02-0074b4889815b53a.jpg",
+      "sha256": "0074b4889815b53a5b980fa8ee8d96a0bf08b7e1eb895f278031a10c0b27afb9",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Smart-Switch_PC_312x312.jpg?$312_312_JPG$",
+      "name": "tpl-02-011bc35f33c925e9.jpg",
+      "path": "assets/tpl-02-011bc35f33c925e9.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-011bc35f33c925e9.jpg",
+      "live_path": "/img/tpl-02-011bc35f33c925e9.jpg",
+      "sha256": "011bc35f33c925e9bdff6bebf17781c112b47a34ba8e141597a3ab08e8613f80",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_02_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-01c1a29622ae3d28.png",
+      "path": "assets/tpl-02-01c1a29622ae3d28.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-01c1a29622ae3d28.png",
+      "live_path": "/img/tpl-02-01c1a29622ae3d28.png",
+      "sha256": "01c1a29622ae3d289588daf0aa9c648ac935f8f116adf30abd409943ca8f38db",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Menu_Galaxy-Accessories_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-0301dcabdc9f245b.png",
+      "path": "assets/tpl-02-0301dcabdc9f245b.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-0301dcabdc9f245b.png",
+      "live_path": "/img/tpl-02-0301dcabdc9f245b.png",
+      "sha256": "0301dcabdc9f245bd70fbabe85843dacc8355fd1d26a6a0b0fa693e7704dcacc",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_13_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-0377e75242703bbc.png",
+      "path": "assets/tpl-02-0377e75242703bbc.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-0377e75242703bbc.png",
+      "live_path": "/img/tpl-02-0377e75242703bbc.png",
+      "sha256": "0377e75242703bbcb5758b31e4a0f034114e96c83bf21b2414a26264b84da46d",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Unpacked-Replay_PC_312x312.jpg?$312_312_JPG$",
+      "name": "tpl-02-05143fb9fef0f6ae.jpg",
+      "path": "assets/tpl-02-05143fb9fef0f6ae.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-05143fb9fef0f6ae.jpg",
+      "live_path": "/img/tpl-02-05143fb9fef0f6ae.jpg",
+      "sha256": "05143fb9fef0f6ae71e4dd64a997a43e71a54395118388a130f3f2c97745dbaf",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312.jpg?$312_312_JPG$",
+      "name": "tpl-02-07d3800819e9d72f.jpg",
+      "path": "assets/tpl-02-07d3800819e9d72f.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-07d3800819e9d72f.jpg",
+      "live_path": "/img/tpl-02-07d3800819e9d72f.jpg",
+      "sha256": "07d3800819e9d72f4422b5b12a4be8b51ce903c920280c0f5845dabe296e881e",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_04_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-07e8a1c93f21d980.png",
+      "path": "assets/tpl-02-07e8a1c93f21d980.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-07e8a1c93f21d980.png",
+      "live_path": "/img/tpl-02-07e8a1c93f21d980.png",
+      "sha256": "07e8a1c93f21d980808f1e3d15880d02fb19ede731370333cd861d5b5a942700",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8-U_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-085d21ce85348eea.png",
+      "path": "assets/tpl-02-085d21ce85348eea.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-085d21ce85348eea.png",
+      "live_path": "/img/tpl-02-085d21ce85348eea.png",
+      "sha256": "085d21ce85348eea3bb14b0b42a3efae42d1eeff70d53cb4009b2787fd801528",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/wearables/GNB_Wearables_L1_03_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-0eeac58e6373c37c.png",
+      "path": "assets/tpl-02-0eeac58e6373c37c.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-0eeac58e6373c37c.png",
+      "live_path": "/img/tpl-02-0eeac58e6373c37c.png",
+      "sha256": "0eeac58e6373c37c743d32b2e326d85a6927d4cfa5b5234031972009c0507131",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-5_PC_MO_LTR.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-1335c36016d5f21f.png",
+      "path": "assets/tpl-02-1335c36016d5f21f.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-1335c36016d5f21f.png",
+      "live_path": "/img/tpl-02-1335c36016d5f21f.png",
+      "sha256": "1335c36016d5f21f0b146ca3b881a961b8be8db8303310ea39ffdc71419d24ed",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Accessories__Galaxy-Smartphone-Accessories_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-1341e55e046b7315.png",
+      "path": "assets/tpl-02-1341e55e046b7315.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-1341e55e046b7315.png",
+      "live_path": "/img/tpl-02-1341e55e046b7315.png",
+      "sha256": "1341e55e046b73159fdff3697cdaa4134e1b107049b75b6041e211b80b5274be",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-4_PC_MO_LTR.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-14acf62a2ce6a24a.png",
+      "path": "assets/tpl-02-14acf62a2ce6a24a.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-14acf62a2ce6a24a.png",
+      "live_path": "/img/tpl-02-14acf62a2ce6a24a.png",
+      "sha256": "14acf62a2ce6a24a9e3d60aef40fec1ad1174b537d0da236bde3007ef00c5776",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/ux3/home/MDVD_Feature_Card3_560X560.jpg?$560_560_JPG$",
+      "name": "tpl-02-14ee584979189533.jpg",
+      "path": "assets/tpl-02-14ee584979189533.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-14ee584979189533.jpg",
+      "live_path": "/img/tpl-02-14ee584979189533.jpg",
+      "sha256": "14ee5849791895333e6eadae4528e32cff8096bbb36f6a7c62c8c467b58cec29",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/EO_GNB_3_Appliances_Packages_001_Front-Pair1_Steel_SESP.png?$ORIGIN_PNG$",
+      "name": "tpl-02-156c56243401ad62.png",
+      "path": "assets/tpl-02-156c56243401ad62.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-156c56243401ad62.png",
+      "live_path": "/img/tpl-02-156c56243401ad62.png",
+      "sha256": "156c56243401ad62195ab83b0912ac2f682d77890941e038b408f8b780c2c357",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/The-Frame_560x56_sg0_2026.jpg?$560_560_JPG$",
+      "name": "tpl-02-1668316a0516c82c.jpg",
+      "path": "assets/tpl-02-1668316a0516c82c.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-1668316a0516c82c.jpg",
+      "live_path": "/img/tpl-02-1668316a0516c82c.jpg",
+      "sha256": "1668316a0516c82c437f860655f7deb882e3811c1d7c3d67447f3c04e76c5a94",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_11_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-175f2e363b747810.png",
+      "path": "assets/tpl-02-175f2e363b747810.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-175f2e363b747810.png",
+      "live_path": "/img/tpl-02-175f2e363b747810.png",
+      "sha256": "175f2e363b74781086880c543501758357a210e2da271713acec0b5ad6633909",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-1_PC_MO_LTR.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-1bbb79b8df874a85.png",
+      "path": "assets/tpl-02-1bbb79b8df874a85.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-1bbb79b8df874a85.png",
+      "live_path": "/img/tpl-02-1bbb79b8df874a85.png",
+      "sha256": "1bbb79b8df874a858f56c440fcefe7df65b201fb34b466301de8d6bdaf7ea8b7",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_12_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-1bcfdf4bc35637c8.png",
+      "path": "assets/tpl-02-1bcfdf4bc35637c8.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-1bcfdf4bc35637c8.png",
+      "live_path": "/img/tpl-02-1bcfdf4bc35637c8.png",
+      "sha256": "1bcfdf4bc35637c8838d8385ec4347a2a95de90be8d4792b316730f10523252b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/VR7MD96514G_004_Station_with_Body_R_Perspective_Satin_Greige_Thumb.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-240c812258639dcb.png",
+      "path": "assets/tpl-02-240c812258639dcb.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-240c812258639dcb.png",
+      "live_path": "/img/tpl-02-240c812258639dcb.png",
+      "sha256": "240c812258639dcbb452f74dbf96a2fae602dbc61dcffe3b51ebe7838483e25f",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-25165bfad34364a1.jpg",
+      "path": "assets/tpl-02-25165bfad34364a1.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-25165bfad34364a1.jpg",
+      "live_path": "/img/tpl-02-25165bfad34364a1.jpg",
+      "sha256": "25165bfad34364a1032f7b5a624e1c90dab9e23aa75dad7ab350701dd0fe167e",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/HOME_TS12_Hero-KV_1920x1080_pc_updated.jpg?imwidth=1366",
+      "name": "tpl-02-258440b122f248a6.jpg",
+      "path": "assets/tpl-02-258440b122f248a6.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-258440b122f248a6.jpg",
+      "live_path": "/img/tpl-02-258440b122f248a6.jpg",
+      "sha256": "258440b122f248a6d24cb9e9698effaa8c73c1eb406a431974771c80eb4f83d3",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/SG_shop_bespoke_ai_refrigerator.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-269db51ea2ced159.png",
+      "path": "assets/tpl-02-269db51ea2ced159.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-269db51ea2ced159.png",
+      "live_path": "/img/tpl-02-269db51ea2ced159.png",
+      "sha256": "269db51ea2ced159dcd3220fab4c456e44de7a18bc1608a50981b9dd66496802",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Accessories__Galaxy-Smartphone-Accessories_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-2731a27d06ce289c.png",
+      "path": "assets/tpl-02-2731a27d06ce289c.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-2731a27d06ce289c.png",
+      "live_path": "/img/tpl-02-2731a27d06ce289c.png",
+      "sha256": "2731a27d06ce289c510cd84358d28ea95fbb90f17bf2fd520fb53f24f8c4535d",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_the_frame.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-2887b8890d6df81c.png",
+      "path": "assets/tpl-02-2887b8890d6df81c.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-2887b8890d6df81c.png",
+      "live_path": "/img/tpl-02-2887b8890d6df81c.png",
+      "sha256": "2887b8890d6df81cae2b44a9745433a0aa445c7a95ce4a217d350c35ea83cf60",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-5_PC_MO_LTR.png?$ORIGIN_PNG$",
+      "name": "tpl-02-2a60a3aaf9cc1533.png",
+      "path": "assets/tpl-02-2a60a3aaf9cc1533.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-2a60a3aaf9cc1533.png",
+      "live_path": "/img/tpl-02-2a60a3aaf9cc1533.png",
+      "sha256": "2a60a3aaf9cc1533c787a26e3e9d9b66d616a33f9dedaed7585c997a7dcc6b49",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_tv_accessories.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-2ab8eb58024a287c.png",
+      "path": "assets/tpl-02-2ab8eb58024a287c.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-2ab8eb58024a287c.png",
+      "live_path": "/img/tpl-02-2ab8eb58024a287c.png",
+      "sha256": "2ab8eb58024a287c4f9862b46ad3591e28478ee60eee90a5af6a33f7c1ef0a6b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/88x88_Airdresser.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-2bbe8f8c18668314.png",
+      "path": "assets/tpl-02-2bbe8f8c18668314.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-2bbe8f8c18668314.png",
+      "live_path": "/img/tpl-02-2bbe8f8c18668314.png",
+      "sha256": "2bbe8f8c186683145f05d77cc4c71d3839b0519007b8f39c5627c1b400af45c2",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/Bespoke_AI_1920x1080.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-2bf0e4ea726a5836.jpg",
+      "path": "assets/tpl-02-2bf0e4ea726a5836.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-2bf0e4ea726a5836.jpg",
+      "live_path": "/img/tpl-02-2bf0e4ea726a5836.jpg",
+      "sha256": "2bf0e4ea726a583632aa34264354a6dae859658e5c385c072a5f062102c34d58",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Smart-Switch_MO_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-2d2a2dd129df705a.jpg",
+      "path": "assets/tpl-02-2d2a2dd129df705a.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-2d2a2dd129df705a.jpg",
+      "live_path": "/img/tpl-02-2d2a2dd129df705a.jpg",
+      "sha256": "2d2a2dd129df705a6babe75f428a7946b801d80ad3bc7be2f21854b6fd9f1686",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/SG_shop_bespoke_ai_laundry.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-31f5f1c99797f81e.png",
+      "path": "assets/tpl-02-31f5f1c99797f81e.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-31f5f1c99797f81e.png",
+      "live_path": "/img/tpl-02-31f5f1c99797f81e.png",
+      "sha256": "31f5f1c99797f81e568a88e6122b5693119e3cfc17dee2a787a1e0c5d6cd4bd0",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Menu_Galaxy-Accessories_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-3313a0d84d53528d.png",
+      "path": "assets/tpl-02-3313a0d84d53528d.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-3313a0d84d53528d.png",
+      "live_path": "/img/tpl-02-3313a0d84d53528d.png",
+      "sha256": "3313a0d84d53528da8182f4d7342962f23895b1ccb08846c43f9bf8390b556fa",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/frame_pro_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-33d58575fe568994.png",
+      "path": "assets/tpl-02-33d58575fe568994.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-33d58575fe568994.png",
+      "live_path": "/img/tpl-02-33d58575fe568994.png",
+      "sha256": "33d58575fe5689945f3d9d2c58a69f89fba513640cd3f2480439c19151a03ba3",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/GNB-aircon.png?$ORIGIN_PNG$",
+      "name": "tpl-02-34fc54cebb4caf55.png",
+      "path": "assets/tpl-02-34fc54cebb4caf55.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-34fc54cebb4caf55.png",
+      "live_path": "/img/tpl-02-34fc54cebb4caf55.png",
+      "sha256": "34fc54cebb4caf55092cdbc55961f410263a8f0ad6f0f4cf41aed119f2be08b2",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_crystal_uhd.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-3552eeaf6a682587.png",
+      "path": "assets/tpl-02-3552eeaf6a682587.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-3552eeaf6a682587.png",
+      "live_path": "/img/tpl-02-3552eeaf6a682587.png",
+      "sha256": "3552eeaf6a68258747ec96f37eaad4f07ddab9c2e181b6bea3a289aee7ee5c69",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_09_1_88x88_0522.png?$ORIGIN_PNG$",
+      "name": "tpl-02-35dcf0570be3d70f.png",
+      "path": "assets/tpl-02-35dcf0570be3d70f.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-35dcf0570be3d70f.png",
+      "live_path": "/img/tpl-02-35dcf0570be3d70f.png",
+      "sha256": "35dcf0570be3d70fe093e6a266f675c6a3b448fe17244d597092fae4cf905480",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_oled.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-37f2bcad24dc32d0.png",
+      "path": "assets/tpl-02-37f2bcad24dc32d0.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-37f2bcad24dc32d0.png",
+      "live_path": "/img/tpl-02-37f2bcad24dc32d0.png",
+      "sha256": "37f2bcad24dc32d0b2ad728ca085032d660c3f3cbb66703be11d585bcefed41b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/NV7B6675CAA_001_Front_Dark_Steel_Thumb.png?$ORIGIN_PNG$",
+      "name": "tpl-02-3c72bd1889bdc643.png",
+      "path": "assets/tpl-02-3c72bd1889bdc643.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-3c72bd1889bdc643.png",
+      "live_path": "/img/tpl-02-3c72bd1889bdc643.png",
+      "sha256": "3c72bd1889bdc643ceb7e7b32203d7c528dc4e599966d452647cefd9e1744eb4",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2026-main-kv-feature-kv-pc.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-3f1b35e9f342a9f6.jpg",
+      "path": "assets/tpl-02-3f1b35e9f342a9f6.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-3f1b35e9f342a9f6.jpg",
+      "live_path": "/img/tpl-02-3f1b35e9f342a9f6.jpg",
+      "sha256": "3f1b35e9f342a9f677f56a8c8a6e04db409848a648aef769552267f6cd8f920d",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_03_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-40b48cb76fc06813.png",
+      "path": "assets/tpl-02-40b48cb76fc06813.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-40b48cb76fc06813.png",
+      "live_path": "/img/tpl-02-40b48cb76fc06813.png",
+      "sha256": "40b48cb76fc068130ef620846447af36e2a6da653a613b9c9b21b5b49a93cfc0",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Menu_Galaxy-Watch_U2_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-437981f3a3e1f4cd.png",
+      "path": "assets/tpl-02-437981f3a3e1f4cd.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-437981f3a3e1f4cd.png",
+      "live_path": "/img/tpl-02-437981f3a3e1f4cd.png",
+      "sha256": "437981f3a3e1f4cd06030790c91b1804d4b5d1b469b701fc7a2c0d2a8dc7f5dd",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/09-2025/GNB_TS11_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-44ad250daeb1381c.png",
+      "path": "assets/tpl-02-44ad250daeb1381c.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-44ad250daeb1381c.png",
+      "live_path": "/img/tpl-02-44ad250daeb1381c.png",
+      "sha256": "44ad250daeb1381cbca03f646fc06e061d32f16345bc281c720f8c1a950920f5",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_10_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-451997aff6c6891d.png",
+      "path": "assets/tpl-02-451997aff6c6891d.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-451997aff6c6891d.png",
+      "live_path": "/img/tpl-02-451997aff6c6891d.png",
+      "sha256": "451997aff6c6891da1317006994c30f782150d426d05080f3ba021f111774dfc",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/HOME_TS12_Feature-Card_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-454b317863bda491.jpg",
+      "path": "assets/tpl-02-454b317863bda491.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-454b317863bda491.jpg",
+      "live_path": "/img/tpl-02-454b317863bda491.jpg",
+      "sha256": "454b317863bda491d169c3277cab7d6fbe12e3cccfedfc8d18ca50aa932cf7e8",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_04_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-457f25900642c29b.png",
+      "path": "assets/tpl-02-457f25900642c29b.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-457f25900642c29b.png",
+      "live_path": "/img/tpl-02-457f25900642c29b.png",
+      "sha256": "457f25900642c29b16d07c0de907413f6b7001e9ebfef9071608510693001630",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_03_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-484a8ddb272ce596.png",
+      "path": "assets/tpl-02-484a8ddb272ce596.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-484a8ddb272ce596.png",
+      "live_path": "/img/tpl-02-484a8ddb272ce596.png",
+      "sha256": "484a8ddb272ce5966dda5b20fac4ca5665df0a585e2504ef836817dc88351fcc",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/QN990F_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-4b47ddb235d073cd.png",
+      "path": "assets/tpl-02-4b47ddb235d073cd.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-4b47ddb235d073cd.png",
+      "live_path": "/img/tpl-02-4b47ddb235d073cd.png",
+      "sha256": "4b47ddb235d073cdcf322aebe739ff4333672839a8117fc52b2afe45cac46db5",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/content/samsung/assets/sg/home/26-da-bespoke-ai-logo.svg?$620_64_IMG$",
+      "name": "tpl-02-4d023520dcea2550.svg",
+      "path": "assets/tpl-02-4d023520dcea2550.svg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-4d023520dcea2550.svg",
+      "live_path": "/img/tpl-02-4d023520dcea2550.svg",
+      "sha256": "4d023520dcea2550e55d7035a0d6a30364c811b8eb2896ff20750846243f28cb",
+      "type": "image/svg+xml"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/s2602/gnb/GNB_Buds4-Pro_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-4d188dd97377ecd1.png",
+      "path": "assets/tpl-02-4d188dd97377ecd1.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-4d188dd97377ecd1.png",
+      "live_path": "/img/tpl-02-4d188dd97377ecd1.png",
+      "sha256": "4d188dd97377ecd1d7b6970f36c6e78f79c1219efa8285905819052f4ebf5298",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/s2602/gnb/GNB_Buds4-Pro_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-4e9cc51e7a553526.png",
+      "path": "assets/tpl-02-4e9cc51e7a553526.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-4e9cc51e7a553526.png",
+      "live_path": "/img/tpl-02-4e9cc51e7a553526.png",
+      "sha256": "4e9cc51e7a553526e2fafa176d9c2428a8f0d45de9395c1a892fa4e79e8cb60f",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/Music_Studio_5_GNB_88x88_v2.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-4fac6af61d216618.png",
+      "path": "assets/tpl-02-4fac6af61d216618.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-4fac6af61d216618.png",
+      "live_path": "/img/tpl-02-4fac6af61d216618.png",
+      "sha256": "4fac6af61d2166181ecdc6ef0e3a073d48eb9c45bd391f1140cfc6d74f50b555",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/G95SD-GNB.png?$ORIGIN_PNG$",
+      "name": "tpl-02-521fd11966341711.png",
+      "path": "assets/tpl-02-521fd11966341711.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-521fd11966341711.png",
+      "live_path": "/img/tpl-02-521fd11966341711.png",
+      "sha256": "521fd1196634171157ab589f217891aa3c715b3073ca11b5cf735f64e4d69aeb",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/GNB_Shop_L1_12_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-52f00602bb18009e.png",
+      "path": "assets/tpl-02-52f00602bb18009e.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-52f00602bb18009e.png",
+      "live_path": "/img/tpl-02-52f00602bb18009e.png",
+      "sha256": "52f00602bb18009e7736b4ace38f4309f1ab255bac17ea69ed45561268da4daa",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_11_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-534c616fe921cf96.png",
+      "path": "assets/tpl-02-534c616fe921cf96.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-534c616fe921cf96.png",
+      "live_path": "/img/tpl-02-534c616fe921cf96.png",
+      "sha256": "534c616fe921cf968618a2cecc2adbcd22983b290f3ba135c73aa915e5c915b9",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/computing-and-displays/GNB_Computing_L1_02_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-5452bdaa7f3ed7c6.png",
+      "path": "assets/tpl-02-5452bdaa7f3ed7c6.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-5452bdaa7f3ed7c6.png",
+      "live_path": "/img/tpl-02-5452bdaa7f3ed7c6.png",
+      "sha256": "5452bdaa7f3ed7c6fa26e19a5aa5ec76969277abd304d1464cf88970bc7af95b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/Home_Explore_Thumbnail5_BDGM_PC_312x312.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-54560012b37041e0.jpg",
+      "path": "assets/tpl-02-54560012b37041e0.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-54560012b37041e0.jpg",
+      "live_path": "/img/tpl-02-54560012b37041e0.jpg",
+      "sha256": "54560012b37041e0ff7ea7370245046c1a2a0240763c474586462bb60c98ecaf",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_03_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-5799336c783e95e1.png",
+      "path": "assets/tpl-02-5799336c783e95e1.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-5799336c783e95e1.png",
+      "live_path": "/img/tpl-02-5799336c783e95e1.png",
+      "sha256": "5799336c783e95e1e5deea48853bf6e666a118736531bec88daad684b8773e32",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_07_88x88_0522.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-58f599e18bff55c9.png",
+      "path": "assets/tpl-02-58f599e18bff55c9.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-58f599e18bff55c9.png",
+      "live_path": "/img/tpl-02-58f599e18bff55c9.png",
+      "sha256": "58f599e18bff55c9e2ccad6c0607075e41ddaccabe5466b0287c88529bd5d9f9",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/Moving-style-GNB.png?$ORIGIN_PNG$",
+      "name": "tpl-02-5b88e165488c59df.png",
+      "path": "assets/tpl-02-5b88e165488c59df.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-5b88e165488c59df.png",
+      "live_path": "/img/tpl-02-5b88e165488c59df.png",
+      "sha256": "5b88e165488c59df1b5432a5d4521c2f2f13c81e4754f034d27f13f3ee9e42e7",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/09-2025/GNB_TS11_Accessories_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-5bef1f12dbb086ba.png",
+      "path": "assets/tpl-02-5bef1f12dbb086ba.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-5bef1f12dbb086ba.png",
+      "live_path": "/img/tpl-02-5bef1f12dbb086ba.png",
+      "sha256": "5bef1f12dbb086ba26d39019499d78e77d445724ed44f9aa6c1f8ee581d4525c",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/mobile/GNB_Mobile_L1_06_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-5d66063478b2da0e.png",
+      "path": "assets/tpl-02-5d66063478b2da0e.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-5d66063478b2da0e.png",
+      "live_path": "/img/tpl-02-5d66063478b2da0e.png",
+      "sha256": "5d66063478b2da0e0225e115f1d6dab8f61aeb0f31f662d2b29c36d6dc348532",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_13_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-5ef48f9af1bf6e55.png",
+      "path": "assets/tpl-02-5ef48f9af1bf6e55.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-5ef48f9af1bf6e55.png",
+      "live_path": "/img/tpl-02-5ef48f9af1bf6e55.png",
+      "sha256": "5ef48f9af1bf6e5511271f3964dd0a4c26864782f268e261d7ea5958eb6dc965",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_09_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-5ff5e01430027d71.png",
+      "path": "assets/tpl-02-5ff5e01430027d71.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-5ff5e01430027d71.png",
+      "live_path": "/img/tpl-02-5ff5e01430027d71.png",
+      "sha256": "5ff5e01430027d7115663aea9624d8b805ad877fb015d84147b3cb04f0e2664f",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2608/Galaxy-S26-Series_HOME_Feature-KV_PC_1440x810_LTR.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-62f0942bc8902c71.jpg",
+      "path": "assets/tpl-02-62f0942bc8902c71.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-62f0942bc8902c71.jpg",
+      "live_path": "/img/tpl-02-62f0942bc8902c71.jpg",
+      "sha256": "62f0942bc8902c71c4743eafcd048f093202d566fbedb5b29dd58d7a0712f51f",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/QN990F_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-65d2b007f4886220.png",
+      "path": "assets/tpl-02-65d2b007f4886220.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-65d2b007f4886220.png",
+      "live_path": "/img/tpl-02-65d2b007f4886220.png",
+      "sha256": "65d2b007f4886220aec3a58265d850dbe0a742219e2950af4d942602c8af2d44",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_One-UI_MO_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-663e722e168f68a2.jpg",
+      "path": "assets/tpl-02-663e722e168f68a2.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-663e722e168f68a2.jpg",
+      "live_path": "/img/tpl-02-663e722e168f68a2.jpg",
+      "sha256": "663e722e168f68a2b5bfc7f8ce23b64ecded34502ad611f53b0afc25e9d700a7",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/88x88_Airdresser.png?$ORIGIN_PNG$",
+      "name": "tpl-02-681caf0ffacb39e5.png",
+      "path": "assets/tpl-02-681caf0ffacb39e5.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-681caf0ffacb39e5.png",
+      "live_path": "/img/tpl-02-681caf0ffacb39e5.png",
+      "sha256": "681caf0ffacb39e5e9ad85198556179f54e5b4402e605f3d5d460056ac50bd46",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_13_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-68a60e977fbfe84d.png",
+      "path": "assets/tpl-02-68a60e977fbfe84d.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-68a60e977fbfe84d.png",
+      "live_path": "/img/tpl-02-68a60e977fbfe84d.png",
+      "sha256": "68a60e977fbfe84d35bb3b78786caf32ccae8807e15caca4c0e6ba50f80bdf20",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Shop_Galaxy-Watch-U2_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-68d5b46a31eacf9f.png",
+      "path": "assets/tpl-02-68d5b46a31eacf9f.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-68d5b46a31eacf9f.png",
+      "live_path": "/img/tpl-02-68d5b46a31eacf9f.png",
+      "sha256": "68d5b46a31eacf9f24027c212a219987dbefec939e0f6c37aa4abfa1437ad55d",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_11_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-6e9519f97bb7bf98.png",
+      "path": "assets/tpl-02-6e9519f97bb7bf98.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-6e9519f97bb7bf98.png",
+      "live_path": "/img/tpl-02-6e9519f97bb7bf98.png",
+      "sha256": "6e9519f97bb7bf98192c91d5429984253f5617e44a1e629b2846add7ccae69fa",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_11_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-6e99cfd85b49fd15.png",
+      "path": "assets/tpl-02-6e99cfd85b49fd15.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-6e99cfd85b49fd15.png",
+      "live_path": "/img/tpl-02-6e99cfd85b49fd15.png",
+      "sha256": "6e99cfd85b49fd15148b88f7498c62418a09b43e0f064fa612030cb864be816b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_04_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-6ff68fb3ac7f564a.png",
+      "path": "assets/tpl-02-6ff68fb3ac7f564a.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-6ff68fb3ac7f564a.png",
+      "live_path": "/img/tpl-02-6ff68fb3ac7f564a.png",
+      "sha256": "6ff68fb3ac7f564ae7ef8a1136d284fe2ecc1c2df195f4ccc3cd5a4932cc46d5",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/NV7B6675CAA_001_Front_Dark_Steel_Thumb.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-7131f1a2800efb08.png",
+      "path": "assets/tpl-02-7131f1a2800efb08.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-7131f1a2800efb08.png",
+      "live_path": "/img/tpl-02-7131f1a2800efb08.png",
+      "sha256": "7131f1a2800efb082774a139daa35ee02eb9febd983a488e78750aec276a1649",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-714047d86236bb39.png",
+      "path": "assets/tpl-02-714047d86236bb39.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-714047d86236bb39.png",
+      "live_path": "/img/tpl-02-714047d86236bb39.png",
+      "sha256": "714047d86236bb399804a549bf1a5b7fc5f2b4d5b52ae6f5c02380546e5b43a9",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_tv_accessories.png?$ORIGIN_PNG$",
+      "name": "tpl-02-724c221b34243243.png",
+      "path": "assets/tpl-02-724c221b34243243.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-724c221b34243243.png",
+      "live_path": "/img/tpl-02-724c221b34243243.png",
+      "sha256": "724c221b34243243468cf6e5733b2bf34870c80287fd68e6e635c7e05878fa75",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Unpacked-Replay_MO_560x560.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-7396485a4d5eb569.jpg",
+      "path": "assets/tpl-02-7396485a4d5eb569.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-7396485a4d5eb569.jpg",
+      "live_path": "/img/tpl-02-7396485a4d5eb569.jpg",
+      "sha256": "7396485a4d5eb56998aa5026e37533682c0fe75a1e09b18293ea0130aa72499f",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/09-2025/GNB_TS11_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-756a2c95e1b7f47e.png",
+      "path": "assets/tpl-02-756a2c95e1b7f47e.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-756a2c95e1b7f47e.png",
+      "live_path": "/img/tpl-02-756a2c95e1b7f47e.png",
+      "sha256": "756a2c95e1b7f47e2fbcb230cde1d5747b9b26fd68f02f522ad94aa4ac0d671b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/gnb_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-7b7d089109c223ac.png",
+      "path": "assets/tpl-02-7b7d089109c223ac.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-7b7d089109c223ac.png",
+      "live_path": "/img/tpl-02-7b7d089109c223ac.png",
+      "sha256": "7b7d089109c223ac0b0d910c5c21fe50c150c2bb8fc6463c2164689076d5f15d",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/MDVD_Feature_Card4_G8SG_560X560-1.jpg?$560_560_JPG$",
+      "name": "tpl-02-7bd0c7ef8dd3c328.jpg",
+      "path": "assets/tpl-02-7bd0c7ef8dd3c328.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-7bd0c7ef8dd3c328.jpg",
+      "live_path": "/img/tpl-02-7bd0c7ef8dd3c328.jpg",
+      "sha256": "7bd0c7ef8dd3c3281e1330b475d19d8a5ff253ab9f6b97370f81273af7e09d34",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_13_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-7ddce0894afaa8e0.png",
+      "path": "assets/tpl-02-7ddce0894afaa8e0.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-7ddce0894afaa8e0.png",
+      "live_path": "/img/tpl-02-7ddce0894afaa8e0.png",
+      "sha256": "7ddce0894afaa8e018901072d659fefaa45088d0db2ca2b8a40f8fba59010550",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/LNB_Galaxy-Buds-Accessories_144x144.png?$ORIGIN_PNG$",
+      "name": "tpl-02-7fc8a2c06948684b.png",
+      "path": "assets/tpl-02-7fc8a2c06948684b.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-7fc8a2c06948684b.png",
+      "live_path": "/img/tpl-02-7fc8a2c06948684b.png",
+      "sha256": "7fc8a2c06948684b90bd165e57886190d241f8f67d5e7107758af66fef9dfa63",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/wearables/GNB_Wearables_L1_03_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-8317beffe643d058.png",
+      "path": "assets/tpl-02-8317beffe643d058.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-8317beffe643d058.png",
+      "live_path": "/img/tpl-02-8317beffe643d058.png",
+      "sha256": "8317beffe643d0588760a91e248d0768dcdd7b8af491b153f025e43309537724",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_micro_rgb.png?$ORIGIN_PNG$",
+      "name": "tpl-02-84fd054993408d67.png",
+      "path": "assets/tpl-02-84fd054993408d67.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-84fd054993408d67.png",
+      "live_path": "/img/tpl-02-84fd054993408d67.png",
+      "sha256": "84fd054993408d67c163dfa30927f6def8a192d4cb1bb2c429d0b20297b03650",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/Home_Explore_Thumbnail5_BDGM_MO_560x560.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-8534194b984b738c.jpg",
+      "path": "assets/tpl-02-8534194b984b738c.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-8534194b984b738c.jpg",
+      "live_path": "/img/tpl-02-8534194b984b738c.jpg",
+      "sha256": "8534194b984b738ceb88ff3c1e7de317039213f5f75dbc8e3ed497c004692a70",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_11_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-857ad098b4c43fb9.png",
+      "path": "assets/tpl-02-857ad098b4c43fb9.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-857ad098b4c43fb9.png",
+      "live_path": "/img/tpl-02-857ad098b4c43fb9.png",
+      "sha256": "857ad098b4c43fb910d10e90bca8fd63f96223e9707aa44f3a9a36126f80ab4a",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/GNB_Appliance_L1_09_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-88cbb872350c7a70.png",
+      "path": "assets/tpl-02-88cbb872350c7a70.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-88cbb872350c7a70.png",
+      "live_path": "/img/tpl-02-88cbb872350c7a70.png",
+      "sha256": "88cbb872350c7a70836f7281a51fee38d7d8568d302f64d883ffea799f38b4bf",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/Home_Explore_Thumbnail5_BDGM_MO_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-89af2cc19570e243.jpg",
+      "path": "assets/tpl-02-89af2cc19570e243.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-89af2cc19570e243.jpg",
+      "live_path": "/img/tpl-02-89af2cc19570e243.jpg",
+      "sha256": "89af2cc19570e2438df7df52ba27e0e6d63ed315cde790a7970726b538952c6a",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2608/Galaxy-S26-Series_HOME_Feature-KV_MO_720x1120_LTR.jpg?$720_N_JPG$",
+      "name": "tpl-02-8bd0a7efc6445c57.jpg",
+      "path": "assets/tpl-02-8bd0a7efc6445c57.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-8bd0a7efc6445c57.jpg",
+      "live_path": "/img/tpl-02-8bd0a7efc6445c57.jpg",
+      "sha256": "8bd0a7efc6445c57c7cd3e0cc6f3447d96b93ae59745c56a19225c95bde922c2",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/WF90F25ADSZS_001_Front_Dark_Steel_Thumb.png?$ORIGIN_PNG$",
+      "name": "tpl-02-8c937af4d84ae094.png",
+      "path": "assets/tpl-02-8c937af4d84ae094.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-8c937af4d84ae094.png",
+      "live_path": "/img/tpl-02-8c937af4d84ae094.png",
+      "sha256": "8c937af4d84ae094f994bdbd41c50ff8ce21b8cbbbb3a3496174b2687b75ccba",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-1_PC_MO_LTR.png?$ORIGIN_PNG$",
+      "name": "tpl-02-8cc4907ea92bbe8e.png",
+      "path": "assets/tpl-02-8cc4907ea92bbe8e.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-8cc4907ea92bbe8e.png",
+      "live_path": "/img/tpl-02-8cc4907ea92bbe8e.png",
+      "sha256": "8cc4907ea92bbe8efff65e18b76f062dd2086240d6c7c5a592c3302016fda28b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Switch-to-Galaxy_MO_560x560.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-8d458ba8ebad3ce0.jpg",
+      "path": "assets/tpl-02-8d458ba8ebad3ce0.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-8d458ba8ebad3ce0.jpg",
+      "live_path": "/img/tpl-02-8d458ba8ebad3ce0.jpg",
+      "sha256": "8d458ba8ebad3ce0f570bc7cfb957e579d1bb110a9a6408bf28a2c7860d1b7db",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/mobile/GNB_Mobile_L1_06_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-8f757e6294d8ca48.png",
+      "path": "assets/tpl-02-8f757e6294d8ca48.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-8f757e6294d8ca48.png",
+      "live_path": "/img/tpl-02-8f757e6294d8ca48.png",
+      "sha256": "8f757e6294d8ca481f9ef65f97a5260a3aa3b083b3beded24e214339be6de9e2",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/GNB-aircon.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-90e8fe27f8d2368d.png",
+      "path": "assets/tpl-02-90e8fe27f8d2368d.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-90e8fe27f8d2368d.png",
+      "live_path": "/img/tpl-02-90e8fe27f8d2368d.png",
+      "sha256": "90e8fe27f8d2368d1408b33ec1d3194fe0573a8952e87be218a28fa71fb62155",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/HOME_TS12_Hero-KV_720x1248_mo.jpg?$720_N_JPG$",
+      "name": "tpl-02-92b5f87637c0e832.jpg",
+      "path": "assets/tpl-02-92b5f87637c0e832.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-92b5f87637c0e832.jpg",
+      "live_path": "/img/tpl-02-92b5f87637c0e832.jpg",
+      "sha256": "92b5f87637c0e832bfcb8412865785c750d32fe272e463899fc393d99199768c",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_12_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-93c6b58142254779.png",
+      "path": "assets/tpl-02-93c6b58142254779.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-93c6b58142254779.png",
+      "live_path": "/img/tpl-02-93c6b58142254779.png",
+      "sha256": "93c6b581422547796ce9e7e039c1fa6fbbb4992149a0d6b02932544f026b2d1e",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_04_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-9445268e0be9e6da.png",
+      "path": "assets/tpl-02-9445268e0be9e6da.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-9445268e0be9e6da.png",
+      "live_path": "/img/tpl-02-9445268e0be9e6da.png",
+      "sha256": "9445268e0be9e6da6392c5109d0504197b6859effcaa83c2a7c43878b6d0be6d",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/sg-home-4-5-mdda-feature-card1-560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-94cc525eff0e4d1c.jpg",
+      "path": "assets/tpl-02-94cc525eff0e4d1c.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-94cc525eff0e4d1c.jpg",
+      "live_path": "/img/tpl-02-94cc525eff0e4d1c.jpg",
+      "sha256": "94cc525eff0e4d1c8c20215c9dd6e960be78f019561cbbd753f276e936074321",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/SG_shop_bespoke_ai_laundry.png?$ORIGIN_PNG$",
+      "name": "tpl-02-96e0f3f2f45fda71.png",
+      "path": "assets/tpl-02-96e0f3f2f45fda71.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-96e0f3f2f45fda71.png",
+      "live_path": "/img/tpl-02-96e0f3f2f45fda71.png",
+      "sha256": "96e0f3f2f45fda71c998ac4d0165cb414f92cab3eb45befb71caac55af8cac9d",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/LNB_Galaxy-Buds-Accessories_144x144.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-96e7a45ed89031fa.png",
+      "path": "assets/tpl-02-96e7a45ed89031fa.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-96e7a45ed89031fa.png",
+      "live_path": "/img/tpl-02-96e7a45ed89031fa.png",
+      "sha256": "96e7a45ed89031faff63fef38426dc96a4cfae1c33335889031f44c8f8a06196",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2026-main-kv-feature-kv-pc.jpg?$1440_N_JPG$",
+      "name": "tpl-02-97c0a861a7e8fd24.jpg",
+      "path": "assets/tpl-02-97c0a861a7e8fd24.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-97c0a861a7e8fd24.jpg",
+      "live_path": "/img/tpl-02-97c0a861a7e8fd24.jpg",
+      "sha256": "97c0a861a7e8fd24e2f2f303abf85b453bc361bb8d1c03e79f4265b374bf7624",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_07_88x88_0522.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-98cdbd8020b26b65.png",
+      "path": "assets/tpl-02-98cdbd8020b26b65.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-98cdbd8020b26b65.png",
+      "live_path": "/img/tpl-02-98cdbd8020b26b65.png",
+      "sha256": "98cdbd8020b26b65ef32571f9bcc07674b3a4e51b4538bda1d8aa9319e6f2ebc",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/gnb_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-9989ae9820a3d19d.png",
+      "path": "assets/tpl-02-9989ae9820a3d19d.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-9989ae9820a3d19d.png",
+      "live_path": "/img/tpl-02-9989ae9820a3d19d.png",
+      "sha256": "9989ae9820a3d19d768b1159a877c0d1ff34704ce08237b0201728c82876ad1f",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Feature-Card_Galaxy-Z-Fold8_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-9c20da846f11d3f7.jpg",
+      "path": "assets/tpl-02-9c20da846f11d3f7.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-9c20da846f11d3f7.jpg",
+      "live_path": "/img/tpl-02-9c20da846f11d3f7.jpg",
+      "sha256": "9c20da846f11d3f7df8d250390f12efb67c9a8a326566ca95b007fd9b1ba9c27",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/Bespoke_AI_720x1248.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-9e0afdf5b0d86eb6.jpg",
+      "path": "assets/tpl-02-9e0afdf5b0d86eb6.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-9e0afdf5b0d86eb6.jpg",
+      "live_path": "/img/tpl-02-9e0afdf5b0d86eb6.jpg",
+      "sha256": "9e0afdf5b0d86eb630ca25ea29982e608e1d37a069fab033aa2716af5b23d489",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_ned-qled.png?$ORIGIN_PNG$",
+      "name": "tpl-02-9f62945806cd0167.png",
+      "path": "assets/tpl-02-9f62945806cd0167.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-9f62945806cd0167.png",
+      "live_path": "/img/tpl-02-9f62945806cd0167.png",
+      "sha256": "9f62945806cd016765af0287f340602f541a85bd8def08962dcfa27058b4a28d",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_micro_rgb.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-a16d5865f34a7ab3.png",
+      "path": "assets/tpl-02-a16d5865f34a7ab3.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a16d5865f34a7ab3.png",
+      "live_path": "/img/tpl-02-a16d5865f34a7ab3.png",
+      "sha256": "a16d5865f34a7ab3ad86787544b1816edeb8806a89b42ed5a9f925c6d986b8ae",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/ux3/home/MDDA_Feature_Card2_560X560.jpg?$560_560_JPG$",
+      "name": "tpl-02-a20c81d5fe1f29ea.jpg",
+      "path": "assets/tpl-02-a20c81d5fe1f29ea.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a20c81d5fe1f29ea.jpg",
+      "live_path": "/img/tpl-02-a20c81d5fe1f29ea.jpg",
+      "sha256": "a20c81d5fe1f29ea8e91c27745d03495840cde0c04f6a3a2e84a2ebeec07f429",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Shop_Galaxy-Watch-U2_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-a25185461219de91.png",
+      "path": "assets/tpl-02-a25185461219de91.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a25185461219de91.png",
+      "live_path": "/img/tpl-02-a25185461219de91.png",
+      "sha256": "a25185461219de91d58f2bc8d485e19251a08a2646303d370d30b801e15069fc",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_ned-qled.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-a42e0bd44f3c2328.png",
+      "path": "assets/tpl-02-a42e0bd44f3c2328.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a42e0bd44f3c2328.png",
+      "live_path": "/img/tpl-02-a42e0bd44f3c2328.png",
+      "sha256": "a42e0bd44f3c23289d7e75e5b3f05083ef961387e8164769a01131057674dee7",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_mini_led.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-a469cfc2d467ee2b.png",
+      "path": "assets/tpl-02-a469cfc2d467ee2b.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a469cfc2d467ee2b.png",
+      "live_path": "/img/tpl-02-a469cfc2d467ee2b.png",
+      "sha256": "a469cfc2d467ee2b4c6584f96df3b4ed13251ed918ce63f0691fb2953428dac1",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/computing-and-displays/GNB_Computing_L1_2-3_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-a675f0c9d5757b5d.png",
+      "path": "assets/tpl-02-a675f0c9d5757b5d.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a675f0c9d5757b5d.png",
+      "live_path": "/img/tpl-02-a675f0c9d5757b5d.png",
+      "sha256": "a675f0c9d5757b5de40cb651459d72d8761945738baab89de4f4ba315d9803e4",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_06_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-a730e8bd69eeea77.png",
+      "path": "assets/tpl-02-a730e8bd69eeea77.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a730e8bd69eeea77.png",
+      "live_path": "/img/tpl-02-a730e8bd69eeea77.png",
+      "sha256": "a730e8bd69eeea7700b120d587ab2b659e0bcb8bf171956e65949d78dccc148a",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-a8a1a16eb74a8304.png",
+      "path": "assets/tpl-02-a8a1a16eb74a8304.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a8a1a16eb74a8304.png",
+      "live_path": "/img/tpl-02-a8a1a16eb74a8304.png",
+      "sha256": "a8a1a16eb74a83042a8d86eb1c341dbccc63783f41a094fac1555a45ffa9cc6f",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Smart-Switch_MO_560x560.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-a8dd8f3736edf200.jpg",
+      "path": "assets/tpl-02-a8dd8f3736edf200.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-a8dd8f3736edf200.jpg",
+      "live_path": "/img/tpl-02-a8dd8f3736edf200.jpg",
+      "sha256": "a8dd8f3736edf200809c5c57800697821632504a8fd9137289827f2b6c95fc8f",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Wearables_Accessories_Default_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-ab0a333a9fdab6be.png",
+      "path": "assets/tpl-02-ab0a333a9fdab6be.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-ab0a333a9fdab6be.png",
+      "live_path": "/img/tpl-02-ab0a333a9fdab6be.png",
+      "sha256": "ab0a333a9fdab6be15b1b6d820fd90dd23a94070851437d568872a028245b8d8",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_10_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-ad1ed5b2625278cb.png",
+      "path": "assets/tpl-02-ad1ed5b2625278cb.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-ad1ed5b2625278cb.png",
+      "live_path": "/img/tpl-02-ad1ed5b2625278cb.png",
+      "sha256": "ad1ed5b2625278cb88638aac4b9e89e926e3cf3cf4d7dda9bb8aa89a23460dc5",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/HOME_TS12_Hero-KV_1920x1080_pc_updated.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-afad113d10e5b695.jpg",
+      "path": "assets/tpl-02-afad113d10e5b695.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-afad113d10e5b695.jpg",
+      "live_path": "/img/tpl-02-afad113d10e5b695.jpg",
+      "sha256": "afad113d10e5b6954e3c6f44b8441375d7eb4ef4f286f1dcbcd6ad3e99ed506a",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/EO_GNB_3_Appliances_Packages_001_Front-Pair1_Steel_SESP.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-b00f6fc03fc23451.png",
+      "path": "assets/tpl-02-b00f6fc03fc23451.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-b00f6fc03fc23451.png",
+      "live_path": "/img/tpl-02-b00f6fc03fc23451.png",
+      "sha256": "b00f6fc03fc23451f31a35c611566de1f9df365ce951f8c9e82e185f96f37539",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/computing-and-displays/GNB_Computing_L1_02_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-b1b4fd2a179e2beb.png",
+      "path": "assets/tpl-02-b1b4fd2a179e2beb.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-b1b4fd2a179e2beb.png",
+      "live_path": "/img/tpl-02-b1b4fd2a179e2beb.png",
+      "sha256": "b1b4fd2a179e2bebcc9b75da685b1155eac4f61d6aecc8ff597f2b3a39d8eb46",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/GNB_Shop_L1_12_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-b1e536a3e1035442.png",
+      "path": "assets/tpl-02-b1e536a3e1035442.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-b1e536a3e1035442.png",
+      "live_path": "/img/tpl-02-b1e536a3e1035442.png",
+      "sha256": "b1e536a3e1035442cf96ed8b7afeded4cdd2030c516c2972a54e394b6313f774",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/Bespoke_AI_720x1248.jpg?$720_N_JPG$",
+      "name": "tpl-02-b403c04dff56c906.jpg",
+      "path": "assets/tpl-02-b403c04dff56c906.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-b403c04dff56c906.jpg",
+      "live_path": "/img/tpl-02-b403c04dff56c906.jpg",
+      "sha256": "b403c04dff56c906f293e1be717f9bbfaa3507a434afb1ca9cc2cf6cf3aab6cd",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Menu_Galaxy-Watch_U2_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-b5fb6cd4d99aa194.png",
+      "path": "assets/tpl-02-b5fb6cd4d99aa194.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-b5fb6cd4d99aa194.png",
+      "live_path": "/img/tpl-02-b5fb6cd4d99aa194.png",
+      "sha256": "b5fb6cd4d99aa19466664f13d7972b6a00f3c377716062da7803e49a5720c15e",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/SG_shop_bespoke_ai_refrigerator.png?$ORIGIN_PNG$",
+      "name": "tpl-02-b7a7e6479bef8ab4.png",
+      "path": "assets/tpl-02-b7a7e6479bef8ab4.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-b7a7e6479bef8ab4.png",
+      "live_path": "/img/tpl-02-b7a7e6479bef8ab4.png",
+      "sha256": "b7a7e6479bef8ab45a0e50ad30e08312660577fdd7bcc313cc5a8141ba94d23e",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/Bespoke_AI_1920x1080.jpg?$1440_N_JPG$",
+      "name": "tpl-02-b7dd7dea676abaeb.jpg",
+      "path": "assets/tpl-02-b7dd7dea676abaeb.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-b7dd7dea676abaeb.jpg",
+      "live_path": "/img/tpl-02-b7dd7dea676abaeb.jpg",
+      "sha256": "b7dd7dea676abaeb5460f5c0292cc1d74535bb182db09cac3bc0c40adedc1a7f",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Unpacked-Replay_PC_312x312.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-bae9debe2286a6d9.jpg",
+      "path": "assets/tpl-02-bae9debe2286a6d9.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-bae9debe2286a6d9.jpg",
+      "live_path": "/img/tpl-02-bae9debe2286a6d9.jpg",
+      "sha256": "bae9debe2286a6d9e428d4b8fe6ee3bff70e9c81b509fa163117ee507d5eed74",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/Home_Explore_Thumbnail5_BDGM_PC_312x312.jpg?$312_312_JPG$",
+      "name": "tpl-02-bb1b4d17c0dbe1ec.jpg",
+      "path": "assets/tpl-02-bb1b4d17c0dbe1ec.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-bb1b4d17c0dbe1ec.jpg",
+      "live_path": "/img/tpl-02-bb1b4d17c0dbe1ec.jpg",
+      "sha256": "bb1b4d17c0dbe1ec738d1d1a264ade58393502e65164d2b0bf4784b0092e1d48",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2608/Galaxy-S26-Series_HOME_Feature-KV_PC_1440x810_LTR.jpg?$1440_N_JPG$",
+      "name": "tpl-02-bbdcb8be73688700.jpg",
+      "path": "assets/tpl-02-bbdcb8be73688700.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-bbdcb8be73688700.jpg",
+      "live_path": "/img/tpl-02-bbdcb8be73688700.jpg",
+      "sha256": "bbdcb8be736887005d4791356034dd78e1bf229a7ff106e9d766ba9031a27af5",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-4_PC_MO_LTR.png?$ORIGIN_PNG$",
+      "name": "tpl-02-bd7bf8536ef13493.png",
+      "path": "assets/tpl-02-bd7bf8536ef13493.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-bd7bf8536ef13493.png",
+      "live_path": "/img/tpl-02-bd7bf8536ef13493.png",
+      "sha256": "bd7bf8536ef134939cd4ac73dca14755d850ee6fe35fb8b5789febb8cfc9f3a9",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-6_PC_MO_LTR.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-c0532cd157eb2f5b.png",
+      "path": "assets/tpl-02-c0532cd157eb2f5b.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-c0532cd157eb2f5b.png",
+      "live_path": "/img/tpl-02-c0532cd157eb2f5b.png",
+      "sha256": "c0532cd157eb2f5bbea85a5449fd13b1840fc7be630619ad8d50af59f2184039",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_03_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-c17ce92ee049c45a.png",
+      "path": "assets/tpl-02-c17ce92ee049c45a.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-c17ce92ee049c45a.png",
+      "live_path": "/img/tpl-02-c17ce92ee049c45a.png",
+      "sha256": "c17ce92ee049c45a271997fb0f316d6a9449c03bf13195f96afef0139b20a08c",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/09-2025/MDDA_Feature_Card4_aircon_560X560_Sg.jpg?$560_560_JPG$",
+      "name": "tpl-02-c2ce2a77c8ca78e8.jpg",
+      "path": "assets/tpl-02-c2ce2a77c8ca78e8.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-c2ce2a77c8ca78e8.jpg",
+      "live_path": "/img/tpl-02-c2ce2a77c8ca78e8.jpg",
+      "sha256": "c2ce2a77c8ca78e884d0f8ba77d0c88d28f73c7d7697d1d5717d7b44b41b8e33",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_01_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-c91f9b818c58e299.png",
+      "path": "assets/tpl-02-c91f9b818c58e299.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-c91f9b818c58e299.png",
+      "live_path": "/img/tpl-02-c91f9b818c58e299.png",
+      "sha256": "c91f9b818c58e299fba3cbf35c7970e324277e650c63b6b8bdcf5df7bd52dfb8",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2608/HOME_Feature-Card_Galaxy-S26-FE_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-ca856140729e9ba4.jpg",
+      "path": "assets/tpl-02-ca856140729e9ba4.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-ca856140729e9ba4.jpg",
+      "live_path": "/img/tpl-02-ca856140729e9ba4.jpg",
+      "sha256": "ca856140729e9ba48787ffe51fa6f572419a2d77af8fb1920ffc6f2acd6e9618",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/shop/G95SD-GNB.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-cb7a3d75a1365cda.png",
+      "path": "assets/tpl-02-cb7a3d75a1365cda.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-cb7a3d75a1365cda.png",
+      "live_path": "/img/tpl-02-cb7a3d75a1365cda.png",
+      "sha256": "cb7a3d75a1365cda811450ccd3f9135d1b0a2cc593632e801aff2e223b896830",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/SG_Appliances_L1_banner_2-6_PC_MO_LTR.png?$ORIGIN_PNG$",
+      "name": "tpl-02-cedf66db9e5b2505.png",
+      "path": "assets/tpl-02-cedf66db9e5b2505.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-cedf66db9e5b2505.png",
+      "live_path": "/img/tpl-02-cedf66db9e5b2505.png",
+      "sha256": "cedf66db9e5b2505645b9d7611116ce541129b17942485f2123fae9a4ddb42ba",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/GNB_TS11_88x88_sg.png?$ORIGIN_PNG$",
+      "name": "tpl-02-d02cb210a5ad448f.png",
+      "path": "assets/tpl-02-d02cb210a5ad448f.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d02cb210a5ad448f.png",
+      "live_path": "/img/tpl-02-d02cb210a5ad448f.png",
+      "sha256": "d02cb210a5ad448fea056cad035d3b588e08db4a81d01c1685167eb48069fba7",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/s2602/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-d1f2a1c46ee0f387.png",
+      "path": "assets/tpl-02-d1f2a1c46ee0f387.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d1f2a1c46ee0f387.png",
+      "live_path": "/img/tpl-02-d1f2a1c46ee0f387.png",
+      "sha256": "d1f2a1c46ee0f3877c2d3384c48a8ce1422317c15fae98098c47b3f248d53b7a",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/s2602/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-d37e3cf3d8a5088f.png",
+      "path": "assets/tpl-02-d37e3cf3d8a5088f.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d37e3cf3d8a5088f.png",
+      "live_path": "/img/tpl-02-d37e3cf3d8a5088f.png",
+      "sha256": "d37e3cf3d8a5088f741aa23979365d40af6968d67c57810a05d7f794e17f34ac",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/ux3/home/MDDA_Feature_Card3_560X560_.jpg?$560_560_JPG$",
+      "name": "tpl-02-d4085a5e61c7620d.jpg",
+      "path": "assets/tpl-02-d4085a5e61c7620d.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d4085a5e61c7620d.jpg",
+      "live_path": "/img/tpl-02-d4085a5e61c7620d.jpg",
+      "sha256": "d4085a5e61c7620dc8b03f873a9e3288c082de3844763acbf515d952012511c6",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_One-UI_PC_312x312.jpg?$312_312_JPG$",
+      "name": "tpl-02-d7e7cf9e46085a67.jpg",
+      "path": "assets/tpl-02-d7e7cf9e46085a67.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d7e7cf9e46085a67.jpg",
+      "live_path": "/img/tpl-02-d7e7cf9e46085a67.jpg",
+      "sha256": "d7e7cf9e46085a67d26cd4c409dfa73475b8c017260a3ee977ddc8d42a3cde32",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/WF90F25ADSZS_001_Front_Dark_Steel_Thumb.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-d81dcfbdff2f8618.png",
+      "path": "assets/tpl-02-d81dcfbdff2f8618.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d81dcfbdff2f8618.png",
+      "live_path": "/img/tpl-02-d81dcfbdff2f8618.png",
+      "sha256": "d81dcfbdff2f86183f6a5f0e27497e21506c5f0afb576fa4cc8400e846cd61d8",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2026-main-kv-feature-kv-mo.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-d8a96da809028beb.jpg",
+      "path": "assets/tpl-02-d8a96da809028beb.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d8a96da809028beb.jpg",
+      "live_path": "/img/tpl-02-d8a96da809028beb.jpg",
+      "sha256": "d8a96da809028beb2e6db6e0a3235d59b611cff5d3efa53806923e63b44cd15d",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8-U_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-d8f5b5d8af115ccb.png",
+      "path": "assets/tpl-02-d8f5b5d8af115ccb.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-d8f5b5d8af115ccb.png",
+      "live_path": "/img/tpl-02-d8f5b5d8af115ccb.png",
+      "sha256": "d8f5b5d8af115ccbc82b0a40efbe7375becc1e4cff56f58d633f939cfc43b2cf",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_One-UI_PC_312x312.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-dba47dea9f035a95.jpg",
+      "path": "assets/tpl-02-dba47dea9f035a95.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-dba47dea9f035a95.jpg",
+      "live_path": "/img/tpl-02-dba47dea9f035a95.jpg",
+      "sha256": "dba47dea9f035a9513f54a6fd53799910931f8fc0304483f3caa8d8f33f42b4d",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/appliances/VR7MD96514G_004_Station_with_Body_R_Perspective_Satin_Greige_Thumb.png?$ORIGIN_PNG$",
+      "name": "tpl-02-dbfd05e381c8aa04.png",
+      "path": "assets/tpl-02-dbfd05e381c8aa04.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-dbfd05e381c8aa04.png",
+      "live_path": "/img/tpl-02-dbfd05e381c8aa04.png",
+      "sha256": "dbfd05e381c8aa04917bbad196ebac873615704c1c1a676a4eedabda3668d55e",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/Music_Studio_5_GNB_88x88_v2.png?$ORIGIN_PNG$",
+      "name": "tpl-02-dd46e2f2bd1b8cbd.png",
+      "path": "assets/tpl-02-dd46e2f2bd1b8cbd.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-dd46e2f2bd1b8cbd.png",
+      "live_path": "/img/tpl-02-dd46e2f2bd1b8cbd.png",
+      "sha256": "dd46e2f2bd1b8cbdb341257086c81da74d35b14883782948ee4cf566a914a862",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_01_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-de195ab859dc13a9.png",
+      "path": "assets/tpl-02-de195ab859dc13a9.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-de195ab859dc13a9.png",
+      "live_path": "/img/tpl-02-de195ab859dc13a9.png",
+      "sha256": "de195ab859dc13a9d029ee54b4d76de217cc89ad10ed4788ac0be7471d57cbe9",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_crystal_uhd.png?$ORIGIN_PNG$",
+      "name": "tpl-02-de24599c4a1aecd3.png",
+      "path": "assets/tpl-02-de24599c4a1aecd3.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-de24599c4a1aecd3.png",
+      "live_path": "/img/tpl-02-de24599c4a1aecd3.png",
+      "sha256": "de24599c4a1aecd3a71f7be4d27149b2acda8641638bdc1add09ec7248009120",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_the_frame.png?$ORIGIN_PNG$",
+      "name": "tpl-02-de53681737d5f88d.png",
+      "path": "assets/tpl-02-de53681737d5f88d.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-de53681737d5f88d.png",
+      "live_path": "/img/tpl-02-de53681737d5f88d.png",
+      "sha256": "de53681737d5f88dbdc7c9d98a282b0c8b2761b6f58e7758ac30de167aff9d3b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/support/GNB_Support_Banner_02_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-de70c412c8bb8266.png",
+      "path": "assets/tpl-02-de70c412c8bb8266.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-de70c412c8bb8266.png",
+      "live_path": "/img/tpl-02-de70c412c8bb8266.png",
+      "sha256": "de70c412c8bb8266ffce79094e56a979776d5e1bb078a27e7d8fc8004095f36b",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Feature-Card_Galaxy-Watch-U2_560x560.jpg?$560_560_JPG$",
+      "name": "tpl-02-de871fc5ef25cb8f.jpg",
+      "path": "assets/tpl-02-de871fc5ef25cb8f.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-de871fc5ef25cb8f.jpg",
+      "live_path": "/img/tpl-02-de871fc5ef25cb8f.jpg",
+      "sha256": "de871fc5ef25cb8fef8eaf25989a15f0d64d4284d36c39d5da7756d2216adc08",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/frame_pro_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-e31fc519f9eaffba.png",
+      "path": "assets/tpl-02-e31fc519f9eaffba.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-e31fc519f9eaffba.png",
+      "live_path": "/img/tpl-02-e31fc519f9eaffba.png",
+      "sha256": "e31fc519f9eaffbac4894b9a2463fda391a6fe413961d042546d538762b7cc02",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/computing-and-displays/GNB_Computing_L1_2-3_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-e482ed046b7901d9.png",
+      "path": "assets/tpl-02-e482ed046b7901d9.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-e482ed046b7901d9.png",
+      "live_path": "/img/tpl-02-e482ed046b7901d9.png",
+      "sha256": "e482ed046b7901d932f91ce3fc31822656407283cf45875c19faa38d2c86b97e",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_07_88x88_0522.png?$ORIGIN_PNG$",
+      "name": "tpl-02-e5cc47ab416c2237.png",
+      "path": "assets/tpl-02-e5cc47ab416c2237.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-e5cc47ab416c2237.png",
+      "live_path": "/img/tpl-02-e5cc47ab416c2237.png",
+      "sha256": "e5cc47ab416c22376dabd05240a7ba1df13944392f2ac9aea449c9c993b13f02",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/09-2025/GNB_TS11_Accessories_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-e686063a12e77adc.png",
+      "path": "assets/tpl-02-e686063a12e77adc.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-e686063a12e77adc.png",
+      "live_path": "/img/tpl-02-e686063a12e77adc.png",
+      "sha256": "e686063a12e77adccee29e0464009fe4e8714b95c3238a61076546b5ff422011",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/2608/Galaxy-S26-Series_HOME_Feature-KV_MO_720x1120_LTR.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-e694af1bfd0cd665.jpg",
+      "path": "assets/tpl-02-e694af1bfd0cd665.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-e694af1bfd0cd665.jpg",
+      "live_path": "/img/tpl-02-e694af1bfd0cd665.jpg",
+      "sha256": "e694af1bfd0cd665002ae6bc3ae7fff5f99fddafa1901c6d9df16dbd80c842f8",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/ux3/home/Movingstyle_Homepage_Feature_Product_Card_560x560_PC_MO.jpg?$560_560_JPG$",
+      "name": "tpl-02-e6f39e558ac37169.jpg",
+      "path": "assets/tpl-02-e6f39e558ac37169.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-e6f39e558ac37169.jpg",
+      "live_path": "/img/tpl-02-e6f39e558ac37169.jpg",
+      "sha256": "e6f39e558ac371699acf78042294b399e82b1a8f9b26ca469642ac7a2b3dbd37",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/GNB_TS11_88x88_sg.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-e7174aa44e1e47c4.png",
+      "path": "assets/tpl-02-e7174aa44e1e47c4.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-e7174aa44e1e47c4.png",
+      "live_path": "/img/tpl-02-e7174aa44e1e47c4.png",
+      "sha256": "e7174aa44e1e47c4753349fd17f343732e60f4283039bf5bdd62f43fdaa6aca2",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-eb930d6a7249f792.png",
+      "path": "assets/tpl-02-eb930d6a7249f792.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-eb930d6a7249f792.png",
+      "live_path": "/img/tpl-02-eb930d6a7249f792.png",
+      "sha256": "eb930d6a7249f792562a3db25fa9959cd920ac7ab580a0beb8fe998d974a5cf8",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_mini_led.png?$ORIGIN_PNG$",
+      "name": "tpl-02-ec56b35a964d0250.png",
+      "path": "assets/tpl-02-ec56b35a964d0250.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-ec56b35a964d0250.png",
+      "live_path": "/img/tpl-02-ec56b35a964d0250.png",
+      "sha256": "ec56b35a964d0250b58fdc9930beeb5f16e5da323a2966e3c2b3e73dfd0f82cc",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_09_1_88x88_0522.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-ecfebb57925f28ff.png",
+      "path": "assets/tpl-02-ecfebb57925f28ff.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-ecfebb57925f28ff.png",
+      "live_path": "/img/tpl-02-ecfebb57925f28ff.png",
+      "sha256": "ecfebb57925f28ff8cf00a06903f3037822eeea355cae2407070cd46e38a2c72",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_06_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-ed15b5d922f04583.png",
+      "path": "assets/tpl-02-ed15b5d922f04583.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-ed15b5d922f04583.png",
+      "live_path": "/img/tpl-02-ed15b5d922f04583.png",
+      "sha256": "ed15b5d922f04583a8af7dcf95742b31697a33a563750204ba60725c3d34dd68",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Menu_Galaxy-Smartphone_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-efa98924911d6aad.png",
+      "path": "assets/tpl-02-efa98924911d6aad.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-efa98924911d6aad.png",
+      "live_path": "/img/tpl-02-efa98924911d6aad.png",
+      "sha256": "efa98924911d6aad7d416777e999efcf0a454027f72ec0ed97bd0bf6d79a3867",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Smart-Switch_PC_312x312.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-f1d1cffc6eb8e3ab.jpg",
+      "path": "assets/tpl-02-f1d1cffc6eb8e3ab.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f1d1cffc6eb8e3ab.jpg",
+      "live_path": "/img/tpl-02-f1d1cffc6eb8e3ab.jpg",
+      "sha256": "f1d1cffc6eb8e3ab96a845c7368a305109fa9e8028472a5f61f98586cacf3e55",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_Switch-to-Galaxy_PC_312x312.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-f38177cc538a2dd0.jpg",
+      "path": "assets/tpl-02-f38177cc538a2dd0.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f38177cc538a2dd0.jpg",
+      "live_path": "/img/tpl-02-f38177cc538a2dd0.jpg",
+      "sha256": "f38177cc538a2dd0d45292d22c1605371164ebd7b05a1d3c5a5a83e131f82a48",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/home/HOME_Explore-Card_One-UI_MO_560x560.jpg?$LazyLoad_Home_JPG$",
+      "name": "tpl-02-f3d7e8092a202812.jpg",
+      "path": "assets/tpl-02-f3d7e8092a202812.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f3d7e8092a202812.jpg",
+      "live_path": "/img/tpl-02-f3d7e8092a202812.jpg",
+      "sha256": "f3d7e8092a2028122ad45bfdcf08471547dd9c4ca726cae7fac8d50c0bae5448",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/Moving-style-GNB.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-f5deb92cdefcea6f.png",
+      "path": "assets/tpl-02-f5deb92cdefcea6f.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f5deb92cdefcea6f.png",
+      "live_path": "/img/tpl-02-f5deb92cdefcea6f.png",
+      "sha256": "f5deb92cdefcea6ffef60fed4d8b1e13ead6234712b88270afd908bdd7412844",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_08_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-f5fb50ba3e49bb03.png",
+      "path": "assets/tpl-02-f5fb50ba3e49bb03.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f5fb50ba3e49bb03.png",
+      "live_path": "/img/tpl-02-f5fb50ba3e49bb03.png",
+      "sha256": "f5fb50ba3e49bb0393b172d3201cc7c94478b93f8a92f66feb649dcdf7f3adae",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_08_88x88.png?$LazyLoad_Home_PNG$",
+      "name": "tpl-02-f682baef64618ba5.png",
+      "path": "assets/tpl-02-f682baef64618ba5.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f682baef64618ba5.png",
+      "live_path": "/img/tpl-02-f682baef64618ba5.png",
+      "sha256": "f682baef64618ba53717e3aa889902fa1f4e0389e973e80e56656322081ffc49",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/home/HOME_TS12_Hero-KV_1920x1080_pc_updated.jpg?$1920_N_JPG$",
+      "name": "tpl-02-f7227b37c03107cc.jpg",
+      "path": "assets/tpl-02-f7227b37c03107cc.jpg",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f7227b37c03107cc.jpg",
+      "live_path": "/img/tpl-02-f7227b37c03107cc.jpg",
+      "sha256": "f7227b37c03107cc5023a7ccf99d3c14b02445a119bc2260120113ca3a7175da",
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/accessories/GNB_Accessories_L1_11_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-f83d49a1a853290b.png",
+      "path": "assets/tpl-02-f83d49a1a853290b.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-f83d49a1a853290b.png",
+      "live_path": "/img/tpl-02-f83d49a1a853290b.png",
+      "sha256": "f83d49a1a853290bc6a66bdf1d2a8cebd59fdc3fc7608488248d442b84068442",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/f2607/gnb/GNB-L1_Wearables_Accessories_Default_88x88.png?$ORIGIN_PNG$",
+      "name": "tpl-02-fb0cf0a72b8da38b.png",
+      "path": "assets/tpl-02-fb0cf0a72b8da38b.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-fb0cf0a72b8da38b.png",
+      "live_path": "/img/tpl-02-fb0cf0a72b8da38b.png",
+      "sha256": "fb0cf0a72b8da38bcc762f27269a54cc60bbf23080980eda055583794e0d03d3",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/revamp/gnb/tv-and-av/GNB_TV-AV_L1_07_88x88_0522.png?$ORIGIN_PNG$",
+      "name": "tpl-02-fc368e431a6f67e0.png",
+      "path": "assets/tpl-02-fc368e431a6f67e0.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-fc368e431a6f67e0.png",
+      "live_path": "/img/tpl-02-fc368e431a6f67e0.png",
+      "sha256": "fc368e431a6f67e0b9a4a81096e7241721cd5199734289f0a1502203365f6895",
+      "type": "image/png"
+    },
+    {
+      "source": "https://images.samsung.com/is/image/samsung/assets/sg/gnb/gnb_thumbs_oled.png?$ORIGIN_PNG$",
+      "name": "tpl-02-fe20f30a54722823.png",
+      "path": "assets/tpl-02-fe20f30a54722823.png",
+      "repo_path": "templates/TPL-02/assets/tpl-02-fe20f30a54722823.png",
+      "live_path": "/img/tpl-02-fe20f30a54722823.png",
+      "sha256": "fe20f30a5472282346cc1551241b2042a3fa8b07aabad5565f1eef5373132ec4",
+      "type": "image/png"
+    }
+  ]
+}
