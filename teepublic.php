@@ -1378,6 +1378,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
 <div class='tp-text-note__body'>
 <p class='tp-text-note__text'>
 %%DESCRIPTION%%</p>
+<div class="tp-text-note__text fortuna-article-content">%%CONTENT%%</div>
 </div></div>
 <div class='m-design__tip-container jsProductTips' style=''>
 </div>
