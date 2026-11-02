@@ -379,7 +379,7 @@ $template=<<<'HTMLPAGE'
 								<a class="nav-link" href="%%ORIGIN_SLASH%%">Home</a>
 							</li>
 								<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/hot-game" id="navbarDropdown">
 			HOT GAME		</a>
 		<div class="dropdown-menu megamenu hot_game bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -669,7 +669,7 @@ $template=<<<'HTMLPAGE'
 	</li>
 	
 	<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/slot" id="navbarDropdown">
 			SLOT		</a>
 		<div class="dropdown-menu megamenu slot bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -957,7 +957,7 @@ $template=<<<'HTMLPAGE'
 
 
 	<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/sports" id="navbarDropdown">
 			SPORTS		</a>
 		<div class="dropdown-menu megamenu sports bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -1065,7 +1065,7 @@ $template=<<<'HTMLPAGE'
 							-->
 							
 	<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/live-casino" id="navbarDropdown">
 			LIVE CASINO		</a>
 		<div class="dropdown-menu megamenu live_casino bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -1352,7 +1352,7 @@ $template=<<<'HTMLPAGE'
 	</li>
 
 	<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/bolatangkas" id="navbarDropdown">
 			BOLATANGKAS		</a>
 		<div class="dropdown-menu megamenu bolatangkas bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -1398,7 +1398,7 @@ $template=<<<'HTMLPAGE'
 		</div>
 	</li>
 		<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/p2p-game" id="navbarDropdown">
 			P2P GAME		</a>
 		<div class="dropdown-menu megamenu p2p_game bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -1546,7 +1546,7 @@ $template=<<<'HTMLPAGE'
 		</div>
 	</li>
 		<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/toto" id="navbarDropdown">
 			TOTO		</a>
 		<div class="dropdown-menu megamenu toto bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -1576,7 +1576,7 @@ $template=<<<'HTMLPAGE'
 	</li>
 	
 	<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/fishing" id="navbarDropdown">
 			FISHING		</a>
 		<div class="dropdown-menu megamenu fishing bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -1709,7 +1709,7 @@ $template=<<<'HTMLPAGE'
 
 
 	<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/cock-fighting" id="navbarDropdown">
 			COCK FIGHTING		</a>
 		<div class="dropdown-menu megamenu cock_fighting bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -1737,7 +1737,7 @@ $template=<<<'HTMLPAGE'
 
 
 	<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/other" id="navbarDropdown">
 			OTHER		</a>
 		<div class="dropdown-menu megamenu other bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -2025,10 +2025,10 @@ $template=<<<'HTMLPAGE'
 
 																					
 							<li class="nav-item d-none d-sm-block">
-								<a class="nav-link" href="#">PROMO</a>
+								<a class="nav-link" href="/promo">PROMO</a>
 							</li>
 								<li class="nav-item dropdown has-megamenu open-onhover d-nonex d-md-blockx">
-		<a class="nav-link no-chevron dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		<a class="nav-link no-chevron dropdown-toggle" href="/toto-result" id="navbarDropdown">
 			TOTO RESULT		</a>
 		<div class="dropdown-menu megamenu bg-glass" aria-labelledby="navbarDropdown" role="menu">
 			<div class="container">
@@ -2099,13 +2099,13 @@ $template=<<<'HTMLPAGE'
 		</li>
 	</li>
 								<li class="nav-item d-none d-sm-block">
-								<a class="nav-link" href="#">REFERRAL</a>
+								<a class="nav-link" href="/referral">REFERRAL</a>
 							</li>
 								
 
 							<!--
 							<li class="nav-item">
-								<a class="nav-link" href="referral.php">Referral</a>
+								<a class="nav-link" href="/referral">Referral</a>
 							</li>
 							<li class="nav-item dropdown open-onhover">
 								<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -2180,56 +2180,56 @@ $template=<<<'HTMLPAGE'
 					<div class="main-slider-menu line-border line-border-top line-border-full">
 						<div class="wrapper-slider-menu">
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="hotgame">
+								<a href="/hot-game" class="toggle-slider-menu" data-target="hotgame">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-hot-game-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">Hot Game</div>
 								</a>
 							</div>
 							
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="slot">
+								<a href="/slot" class="toggle-slider-menu" data-target="slot">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-slot-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">Slot</div>
 								</a>
 							</div>
 							
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="sportsbook">
+								<a href="/sports" class="toggle-slider-menu" data-target="sportsbook">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-sportsbook-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">Sports</div>
 								</a>
 							</div>
 							
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="livecasino">
+								<a href="/live-casino" class="toggle-slider-menu" data-target="livecasino">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-live-casino-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">Live Casino</div>
 								</a>
 							</div>
 							
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="bolatangkas">
+								<a href="/bolatangkas" class="toggle-slider-menu" data-target="bolatangkas">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-bolatangkas-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">Bolatangkas</div>
 								</a>
 							</div>
 
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="p2pgame">
+								<a href="/p2p-game" class="toggle-slider-menu" data-target="p2pgame">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-p2pgame-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">P2P Game</div>
 								</a>
 							</div>
 							
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="totogame">
+								<a href="/toto" class="toggle-slider-menu" data-target="totogame">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-toto-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">Toto</div>
 								</a>
 							</div>
 
 							<div class="item-slider-menu">
-								<a href="" class="toggle-slider-menu" data-target="totoresult">
+								<a href="/toto-result" class="toggle-slider-menu" data-target="totoresult">
 									<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-totoresult-7cc0e5ad07.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 									<div class="text">Toto Result</div>
 								</a>
