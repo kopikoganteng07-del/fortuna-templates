@@ -3,7 +3,8 @@ $id=(isset($_GET['id'])&&$_GET['id']!=='')?$_GET['id']:'homepage';$file=__DIR__.
 $home=(isset($data['homepage'])&&is_array($data['homepage']))?$data['homepage']:[];$host=preg_replace('/:\d+$/','',$_SERVER['HTTP_HOST']??'localhost');$origin='https://'.$host;$h=static fn($v)=>htmlspecialchars((string)($v??''),ENT_QUOTES,'UTF-8');$abs=static function($u)use($origin){$u=(string)$u;return $u===''?'':(preg_match('~^https?://~i',$u)?$u:$origin.'/'.ltrim($u,'/'));};
 $title=$page['title']??'';$desc=$page['meta_description']??'';$content=$page['content_html']??'';$site=$home['keyword']??explode('.',$host)[0];$canonical=$page['canonical_url']??($origin.($id==='homepage'?'/':'/'.rawurlencode($id)));$amp=(!empty($page['amp_url'])&&$page['amp_url']!=='#')?$page['amp_url']:'';$robots=!empty($page['noindex'])?'noindex, nofollow':'index, follow';$logo=$abs($home['logo_src']??'/images/logo.png');$favicon=$abs($home['favicon_src']??'/images/favicon.png');$image=$abs($page['image_src']??($home['banner_src']??($home['image_src']??'')));$gsc=$home['gsc_token']??'';$daftar=$home['cta_daftar_url']??'#';$login=$home['cta_login_url']??'#';
 if (!preg_match('~<a\b[^>]*href=["\']'.preg_quote($origin.'/', '~').'["\'][^>]*>\s*batik138\s*</a>~i', (string)$content)) {
-    $content .= '<p class="lg-contextual-home-link">Kembali ke informasi utama <a href="'.$h($origin.'/').'">batik138</a>.</p>';
+    $naturalAnchor = ' Informasi selengkapnya dapat dilihat melalui <a href="'.$h($origin.'/').'">batik138</a>.';
+    $content = preg_replace('~</p>~i', $naturalAnchor.'</p>', (string)$content, 1);
 }
 $template=<<<'HTMLPAGE'
 <!DOCTYPE html>
