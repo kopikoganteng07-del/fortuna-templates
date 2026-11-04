@@ -4465,7 +4465,7 @@ $template=<<<'HTMLPAGE'
 	<div class="main-bottom-menu">
 		<ul class="nav-bottom-menu">
 			<li class="nav-item-bottom">
-				<a href="%%ORIGIN_SLASH%%" class="active">
+				<a href="%%ORIGIN_SLASH%%" class="">
 					<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-home.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 					<div class="text">Home</div>
 				</a>
@@ -4487,14 +4487,14 @@ $template=<<<'HTMLPAGE'
 			
 			<li class="nav-item-bottom">
 
-				<a href="#" class="">
+				<a href="/promo" class="">
 					<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-promotions.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 					<div class="text">Promotion</div>
 				</a>
 			</li>
 			
 			<li class="nav-item-bottom">
-				<a href="javascript:void(0)" onclick="showChatBox()">
+				<a href="/contact-us">
 					<div class="ico"><img class="load-when-upfold" data-src="https://batik138-aset.pages.dev/assets/assets/images/icon/menu-contact-us.webp" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 325 234'%3E%3C/svg%3E"></div>
 					<div class="text">Contact Us</div>
 				</a>
@@ -4508,6 +4508,27 @@ $template=<<<'HTMLPAGE'
 		</ul>
 	</div>
 </div>
+
+<script>
+// Keep desktop and mobile navigation aligned with the current data.json page.
+document.addEventListener('DOMContentLoaded', function () {
+    var path = (window.location.pathname || '/').replace(/\/+$/, '') || '/';
+    document.querySelectorAll('a.active').forEach(function (a) { a.classList.remove('active'); });
+    document.querySelectorAll('a[href]').forEach(function (a) {
+        var raw = a.getAttribute('href') || '';
+        if (!raw || raw === '#' || raw.indexOf('javascript:') === 0) return;
+        try {
+            var target = new URL(raw, window.location.origin);
+            var targetPath = target.pathname.replace(/\/+$/, '') || '/';
+            if (target.origin === window.location.origin && targetPath === path) {
+                a.classList.add('active');
+                var item = a.closest('.nav-item, .nav-item-bottom, .item-slider-menu');
+                if (item) item.classList.add('active');
+            }
+        } catch (e) {}
+    });
+});
+</script>
 
 <!-- Live Chat Box -->
 <div id="live-chat-box">
