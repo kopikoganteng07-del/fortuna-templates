@@ -4513,8 +4513,9 @@ $template=<<<'HTMLPAGE'
 // Keep desktop and mobile navigation aligned with the current data.json page.
 document.addEventListener('DOMContentLoaded', function () {
     var path = (window.location.pathname || '/').replace(/\/+$/, '') || '/';
-    document.querySelectorAll('a.active').forEach(function (a) { a.classList.remove('active'); });
-    document.querySelectorAll('a[href]').forEach(function (a) {
+    var navSelector = 'nav a[href], .main-slider-menu a[href], .nav-bottom-menu a[href]';
+    document.querySelectorAll(navSelector + '.active').forEach(function (a) { a.classList.remove('active'); });
+    document.querySelectorAll(navSelector).forEach(function (a) {
         var raw = a.getAttribute('href') || '';
         if (!raw || raw === '#' || raw.indexOf('javascript:') === 0) return;
         try {
